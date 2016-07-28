@@ -1,6 +1,10 @@
+#html{
+  background-image: url('gray.jpeg');
+}
+
 #container{
  width: 600px;
-
+ margin: 0 auto;
 }
 
 #header{
