@@ -23,7 +23,6 @@ body > #container{
 
 #header{
  margin-bottom: 15px;
-
 }
 
 #menu{
@@ -38,13 +37,11 @@ body > #container{
 #contents{
   float: left;
   width: 400px;
-
 }
 
 #sidebar{
   float: right;
   width: 180px;
-
 }
 
 #footer{
