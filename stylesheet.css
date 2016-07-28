@@ -26,6 +26,11 @@
 
 }
 
+#menu {
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
 #footer{
   color: #ccc;
   text-align: center;
