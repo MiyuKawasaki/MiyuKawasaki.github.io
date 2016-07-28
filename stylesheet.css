@@ -1,10 +1,11 @@
 #html{
-  background-image: url('gray2.png');
+  background-color: #ccc;
 }
 
 #container{
  width: 600px;
  margin: 0 auto;
+ background-color: #fff;
 }
 
 #header{
