@@ -6,6 +6,12 @@
 	display:block;
 }
 
+#menu {
+  margin-bottom: 15px;
+  overflow: hidden;
+  text-decoration: none;
+}
+
 #header{
 	border:1px solid #ccc;
 	margin:0px 0px 10px;
@@ -24,12 +30,6 @@
   background-color: #ccc;
   margin-right: 10px;
 
-}
-
-#menu {
-  margin-bottom: 15px;
-  overflow: hidden;
-  text-decoration: none;
 }
 
 #footer{
