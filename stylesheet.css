@@ -13,3 +13,9 @@ header, nav, article, section, footer {
 header{
   text-align: center;
 }
+
+footer{
+  color: #ccc;
+  text-align: center;
+  border-top: 1px;
+}
