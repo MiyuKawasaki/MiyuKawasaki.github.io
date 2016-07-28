@@ -1,1 +1,12 @@
-body { background: skyblue; }
+body {
+	width:900px;
+	margin:20px auto;
+}
+header, nav, article, section, footer, {
+	display:block;
+}
+header, nav, article, section, footer {
+	border:1px solid #ccc;
+	margin:0px 0px 10px;
+	padding:20px;
+}
