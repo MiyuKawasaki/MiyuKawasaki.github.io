@@ -29,6 +29,7 @@
 #menu {
   margin-bottom: 15px;
   overflow: hidden;
+  text-decoration: none;
 }
 
 #footer{
