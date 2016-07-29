@@ -22,7 +22,10 @@ body > #container{
 }
 
 #header{
- margin-bottom: 15px;
+  position:relative;
+     width:940px;
+     margin:0 auto;
+ }
 }
 
 #menu{
